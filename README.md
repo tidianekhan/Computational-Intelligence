@@ -1,5 +1,5 @@
 # Computational-Intelligence
-Collection of projects accomplished during university course "Computational Intelligence" for the Bachelors of Science in Artificial Intelligence. Projects include function optimization, image classification, Pytorch, Neural Networks and Evolutionary Algorithms. Files come in notebook form and .pdf. 
+Collection of projects accomplished during university course "Computational Intelligence" for the Bachelors of Science in Artificial Intelligence from Vrije Universiteit Amsterdam. Projects include function optimization, image classification, Pytorch, Neural Networks and Evolutionary Algorithms. Files come in notebook form and .pdf. 
 
 _**Assignment 1: Optimization**_
 
